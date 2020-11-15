@@ -1,5 +1,5 @@
 <h1 align="center">
-    < 📚 > <br>
+    < 🎓 > <br>
 Sys Ambientes
 </h1>
     <h2 align="center">
